@@ -1,0 +1,24 @@
+p{
+    background-color: rgba(0, 0, 255, 0.445);
+    color: white;
+    margin-bottom: 5px;
+    width: 30%;
+}
+.p1{
+    background-color: rgba(255, 0, 0, 0.507);
+}
+.d1{
+    display: flex;
+    background-color: aquamarine;
+}
+h1{
+    background-color: blue;
+    width: 30%;
+}
+.d2{
+    text-align: center;
+    display: flex;
+    height: 200px;
+    background: linear-gradient(90deg,rgba(42, 123, 155, 1) 29%, rgba(137, 55, 191, 1) 68%, rgba(224, 83, 237, 1) 98%);
+}
+
